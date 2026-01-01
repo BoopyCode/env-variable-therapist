@@ -1,0 +1,18 @@
+{
+  "name": "env-therapist",
+  "version": "1.0.0",
+  "description": "A therapeutic tool for debugging environment variables",
+  "main": "env-therapist.js",
+  "bin": {
+    "env-therapist": "./env-therapist.js"
+  },
+  "scripts": {
+    "start": "node env-therapist.js"
+  },
+  "keywords": ["env", "debug", "therapist", "variables"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
